@@ -7,7 +7,7 @@ This is  just a stub so far; will be updated in the coming months.
 
 May be useful  if you are using a desktop environment without an in-build desktop search (LXQt, Xfce).
 
-##Dependencies
+## Dependencies
 Python dependencies are listed in `requirements.txt` file and can be installed from your Python virtual environment by running:
 
 `pip3 install -r requirements.txt`
